@@ -8,6 +8,11 @@ CHANGELOG
 **Bug fixes**
 
 * Fix permissions required to sync static Web pages
+* Fix crash when generating two PDF in parallel
+
+**New features**
+
+* Adapt REST API for Geotrek-rando v2
 
 
 0.28.8 (2014-12-22)
